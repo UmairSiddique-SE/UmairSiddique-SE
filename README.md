@@ -1,62 +1,53 @@
 # Hi, I'm Umair Siddique
 
-### Software Engineer & Full-Stack Developer
+**Software Engineering Student | Full-Stack Developer**
 
-Software Engineering student building practical web applications, backend APIs, mobile applications, and cloud-connected software.
+I build practical web applications, backend APIs, mobile apps, and database-driven software. My current focus is full-stack development, secure APIs, and SaaS applications.
 
-## About Me
-
-- Software Engineering student
-- Focused on full-stack and backend development
-- Building practical projects across web, mobile, databases, and cloud services
-- Currently building **EduSphere**, a multi-school SaaS school management system
+- 🎓 BS Software Engineering — University of Engineering and Technology (UET), Lahore
+- 🔭 Currently developing **EduSphere**, a multi-school SaaS School Management System
+- 🛠️ Interested in full-stack development, backend engineering, databases, and cloud-connected applications
+- 🌐 Portfolio: [umair-siddique.vercel.app](https://umair-siddique.vercel.app/)
+- 💼 LinkedIn: [Umair Siddique](https://www.linkedin.com/in/umair-siddique-6029bb375/)
+- 🤝 Upwork: [View profile](https://www.upwork.com/freelancers/~019ece93023d118804)
 
 ## Tech Stack
 
-### Languages
-JavaScript · TypeScript · Python · Dart · HTML · CSS
+**Languages:** JavaScript · TypeScript · Python · Dart · HTML · CSS
 
-### Frontend & UI
-React · React Router · Vite · Tailwind CSS · Framer Motion · Flutter
+**Frontend:** React · React Router · Vite · Tailwind CSS · Framer Motion · Flutter
 
-### Backend & APIs
-Node.js · NestJS · Flask · REST APIs · JWT · Prisma
+**Backend:** Node.js · NestJS · Flask · REST APIs · JWT · Prisma
 
-### Databases
-PostgreSQL · MongoDB · Firebase Firestore
+**Databases:** PostgreSQL · MongoDB · Firebase Firestore
 
-### Cloud & Services
-Firebase · Vercel · Neon · Cloudinary
-
-### Tools
-Git · GitHub · Swagger / OpenAPI · React Hook Form · Zod · Recharts
+**Tools & Platforms:** Git · GitHub · Neon · Firebase · Vercel · Cloudinary · Swagger / OpenAPI
 
 ## Featured Projects
 
 ### EduSphere — In Progress
-Multi-school SaaS school management system currently under active development.
+A multi-school SaaS school management platform focused on school administration, academics, attendance, fees, reporting, subscriptions, and role-based access.
 
-**Stack:** React · TypeScript · Vite · React Router · Tailwind CSS · Framer Motion · Node.js · NestJS · PostgreSQL · Prisma · JWT
+**Stack:** React · TypeScript · Node.js · NestJS · PostgreSQL · Prisma
 
-[View Repository](https://github.com/UmairSiddique-SE/School-Project)
+[Repository](https://github.com/UmairSiddique-SE/School-Project)
 
 ### MeterPro
-Flutter application for electricity meter and bill management with Firebase authentication, custom email OTP verification, Firestore, Cloud Functions, Google ML Kit, and camera capabilities.
+A Flutter app for tracking electricity meter readings, units, estimated bills, and meter history.
 
-**Stack:** Dart · Flutter · Firebase · Firestore · Cloud Functions · Google ML Kit
+**Stack:** Flutter · Dart · Firebase
 
-[View Repository](https://github.com/UmairSiddique-SE/MeterPro)
+[Live Website](https://meterpro-official.web.app/) · [Repository](https://github.com/UmairSiddique-SE/MeterPro)
 
 ### Personal Expense Tracker
-Personal finance tracker built with Flask and MongoDB with analytics, PDF financial statements, secure authentication, and PWA support.
+A personal finance application for income and expense tracking, analytics, and PDF financial reports.
 
-**Stack:** Python · Flask · MongoDB · HTML · CSS · JavaScript · ReportLab · Vercel
+**Stack:** Python · Flask · MongoDB · JavaScript
 
-[Live Demo](https://persona-l-expense-tracker.vercel.app) · [View Repository](https://github.com/UmairSiddique-SE/PersonaL-Expense-Tracker)
+[Live Demo](https://personal-expensive-tracker.vercel.app/) · [Repository](https://github.com/UmairSiddique-SE/PersonaL-Expense-Tracker)
 
 ## Connect
 
-- Portfolio: [Umair Siddique](https://umairsiddique5.wordpress.com/)
-- LinkedIn: https://www.linkedin.com/in/umair-siddique-6029bb375/
-- Upwork: https://www.upwork.com/freelancers/~019ece93023d118804
-- GitHub: https://github.com/UmairSiddique-SE
+- [Portfolio](https://umair-siddique.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/umair-siddique-6029bb375/)
+- [Upwork](https://www.upwork.com/freelancers/~019ece93023d118804)
